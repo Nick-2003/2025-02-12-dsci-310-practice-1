@@ -1,0 +1,1 @@
+docker run --rm -it -p 8787:8787 -e PASSWORD="password" nt2103/dsci310practice1
